@@ -1,5 +1,5 @@
 import { defineUserConfig } from 'vuepress'
-
+// 客户端配置文件
 export default defineUserConfig({
   lang: 'zh-CN',
   title: '欢迎来到新大陆',
